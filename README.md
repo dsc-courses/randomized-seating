@@ -23,3 +23,4 @@ Note: The script _tries_ to take into account the orientation of each desk – t
 Roadmap:
 - The script currently requires one to enter the URL of their room's seating chart, though this could be automated.
 - The script doesn't work in the case where multiple sections need to take an exam in the same room (this could happen in the case of shared final exams, perhaps).
+- The script currently has the ability to "exclude" certain students, but can't "include" students who are not in the roster (say, who are taking the final exam to complete an incomplete).
