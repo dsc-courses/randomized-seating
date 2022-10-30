@@ -1,0 +1,33 @@
+{
+    "sections": {
+        "88092": {
+            "seccode": "A00",
+            "instructor": "Janine Tiefenbruck",
+            "room": "Cognitive Science Building 001",
+            "chart_path": "https://mathweb.ucsd.edu/~gptesler/Seats/RoomsZF/CSB_001_zfilter.xlsx"
+        },
+        "88095": {
+            "seccode": "B00",
+            "instructor": "Janine Tiefenbruck",
+            "room": "Cognitive Science Building 001",
+            "chart_path": "https://mathweb.ucsd.edu/~gptesler/Seats/RoomsZF/CSB_001_zfilter.xlsx"
+        },
+        "88098": {
+            "seccode": "C00",
+            "instructor": "Suraj Rampure",
+            "room": "Pepper Canyon Hall 122",
+            "chart_path": "https://mathweb.ucsd.edu/~gptesler/Seats/RoomsZF/Pepper_Canyon_Hall_122_zfilter.xlsx"
+        },
+        "107366": {
+            "seccode": "D00",
+            "instructor": "Puoya Tabaghi",
+            "room": "Pepper Canyon Hall 120",
+            "chart_path": "https://mathweb.ucsd.edu/~gptesler/Seats/RoomsZF/Pepper_Canyon_Hall_120_zfilter.xlsx"
+        }
+    },
+    "roster": "rosters/StandardOutput-CL-1666393154352.xls",
+    "swaps": "rosters/swaps.csv",
+    "exclude": "rosters/exclude.csv",
+    "seed": 98,
+    "exports": "dsc10-midterm-seating"
+}
