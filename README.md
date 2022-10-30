@@ -12,7 +12,7 @@ How to use this script:
     - Find links to your rooms' seating charts [here](https://mathweb.ucsd.edu/~gptesler/assigningseats.html) (click Classroom seat spreadsheets).
     - Manually change the `"seed"` in between exams, but keep it fixed when re-running the script for a particular exam, so that you get the same assignments each time.
     - Remove the `"swaps"` and `"exclude"` entries if you're not using those features.
-    - The `"room"` names you pick can be anything.
+    - The `"room"` names you pick can be anything. They will appear in the final spreadsheets that students see.
     - The `"exports"` path is where your final spreadsheets will be stored.
 - Run `python run.py`. After doing so, in a subfolder of `exports`, you will see two CSV files:
     - `seating-for-mailing.csv`, which contains each student's name, email, PID, lecture section, and assigned seat. We typically upload this CSV to Google Sheets and use it to run a [mail merge](https://yamm.com) that sends each student an email with their seat info (let us know if you want tips on how to do this!).
