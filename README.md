@@ -1,6 +1,6 @@
 # randomized-seating
 
-This script produces a CSV that contains a random assignment of students in your course to seats in a lecture room, for the purposes of administering exams. It works even if your course has multiple lecture sections, each of which is in a different room (in fact, it was created for such a course – DSC 10 in Fall 2022). Credit goes to Glenn Tesler in the Math department, who hosts the necessary seating charts on his [website](https://mathweb.ucsd.edu/~gptesler/assigningseats.html).
+This script produces a CSV that contains a random assignment of students in your course to seats in a lecture room, for the purposes of administering exams. It works even if your course has multiple lecture sections, each of which is in a different room (in fact, it was created for such a course – DSC 10 in Fall 2022). Credit goes to Glenn Tesler in the Math department, who hosts the necessary seating charts on his [website](https://mathweb.ucsd.edu/~gptesler/assigningseats.html). In fact, his site has videos on how to do essentially the same thing, and his videos are much more comprehensive, though the techniques there are not as automated. 
 
 _Disclaimer: This has only ever been tested with one course, so something is bound to go wrong. If something is clearly broken, [submit an issue](https://github.com/dsc-courses/randomized-seating/issues) or let us know at rampure@ucsd.edu!_
 
